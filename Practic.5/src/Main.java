@@ -49,7 +49,7 @@ public class Main {
         }
         return simpleOrNot(Simple, ++check);
     }
-
+// 2
     public static void showMultipliers(int Multiplier, int check){
         if(check <= Multiplier){
             if(Multiplier%check == 0 && simpleOrNot(check,1)){
