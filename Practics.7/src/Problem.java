@@ -41,7 +41,7 @@ public class Problem {
             System.out.println("botva\n");
 
     }
-
+//4
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String first, second;
