@@ -57,7 +57,7 @@ class LabExample extends JFrame {
                 catch(Exception e) {}
             }
         });
-
+//12
         setVisible(true);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
